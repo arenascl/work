@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="div1">
+    </div>
+
+    <div id="create-form">
+        <h2>Crear Producto</h2>
+        <input type="text" id="create-name" placeholder="Nombre">
+        <input type="number" id="create-price" placeholder="Precio">
+        <input type="text" id="create-description" placeholder="Descripcion">
+        <input type="text" id="create-categoria" placeholder="Categoria">
+        <input type="text" id="create-img1" placeholder="Imagen 1">
+        <input type="text" id="create-img2" placeholder="Imagen 2">
+        <input type="text" id="create-img3" placeholder="Imagen 3">
+        <input type="text" id="create-img4" placeholder="Imagen 4">
+        <button onclick="createProductForm()">Crear</button>
+        
+      </div>
+      <!-- editar producto -->
+      <div id="edit-form" style="display: none;">
+        <h2>Editar Producto</h2>
+        <input type="text" id="edit-id" hidden>
+        <input type="text" id="edit-name" placeholder="Nombre">
+        <input type="number" id="edit-price" placeholder="Precio">
+        <input type="text"  id="edit-description" placeholder="Descripcion">
+        <input type="text" id="edit-categoria" placeholder="Categoria">
+        <input type="text" id="edit-img1" placeholder="Imagen 1">
+        <input type="text" id="edit-img2" placeholder="Imagen 2">
+        <input type="text" id="edit-img3" placeholder="Imagen 3">
+        <input type="text" id="edit-img4" placeholder="Imagen 4">
+        <button onclick="saveProductForm()">Guardar</button>
+        <button onclick="cancelEdit()">Cancelar</button>
+      </div>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

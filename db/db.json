@@ -1,0 +1,80 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "TENIS EQ21 RUN",
+      "precio": "310.466",
+      "descripcion": "Cuando el running es tu deporte, no hay nada que te guste más que correr a diario. Acumula kilómetros con total comodidad con estos tenis adidas en tus pies. El exterior transpirable mantiene tus pies frescos y secos en los días de calor y la amortiguación ligera hace que cada paso sea más agradable.",
+      "img": {
+        "imagenUno": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a8e7214f54fb453aae4bad0a013ff50d_9366/Tenis_EQ21_Run_Negro_H00521_01_standard.jpg",
+        "imagenDos": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c8b03926b93c42a3b5d1ad0a01400468_9366/Tenis_EQ21_Run_Negro_H00521_02_standard_hover.jpg",
+        "imagenTres": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa2c13c71b4747889d66ad0a01400ac2_9366/Tenis_EQ21_Run_Negro_H00521_03_standard.jpg",
+        "imagenCuatro": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a622b8ad6904728a8fead0a01401140_9366/Tenis_EQ21_Run_Negro_H00521_04_standard.jpg"
+      },
+      "idCategoria": 11
+    },
+    {
+      "id": 3,
+      "nombre": "TENIS ENTRAP",
+      "precio": "213.866",
+      "descripcion": "¿No tienes planes? Las posibilidades son infinitas cuando el tiempo está a su favor. Llama a tus amigos, pónte los tenis adidas Entrap y atrévete a ver a donde te lleva el día.",
+      "img": {
+        "imagenUno": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/34aa0479bf7a47c89dd6adf700168557_9366/Tenis_Entrap_Blanco_GW5499_01_standard.jpg",
+        "imagenDos": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0dfb8b4c3b554f3781b6adf70016d7c3_9366/Tenis_Entrap_Blanco_GW5499_02_standard_hover.jpg",
+        "imagenTres": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/890692804b5a4fa4a913adf70015172e_9366/Tenis_Entrap_Blanco_GW5499_03_standard.jpg",
+        "imagenCuatro": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a3129208d8234260b9d9adf700163887_9366/Tenis_Entrap_Blanco_GW5499_04_standard.jpg"
+      },
+      "idCategoria": 11
+    },
+    {
+      "id": 4,
+      "nombre": "TENIS PARK STREET",
+      "precio": "399.950",
+      "descripcion": "Estos tenis adidas funcionan para todas las ocasiones, ya que combinan un ambiente retro de cancha de tenis con la cantidad justa de detalles texturizados. La parte superior de piel sintética está sutilmente perforada para permitir que el aire fluya, mientras que la plantilla Cloudfoam Comfort te brinda un paseo suave durante los días llenos de acción. Está rematado con el clásico logo adidas Badge of Sport en goma. Un talón de gamuza suave completa el look. Fabricada con una serie de materiales reciclados, esta parte superior presenta al menos un 50 % de contenido reciclado. Este producto representa solo una de nuestras soluciones para ayudar a acabar con los residuos plásticos.",
+      "img": {
+        "imagenUno": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a9e2a25ce8004d7193115518409f6269_9366/Tenis_Park_Street_Negro_IG9846_01_standard.jpg",
+        "imagenDos": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f1fb1e1c60be40f5bb8e184c1385bce4_9366/Tenis_Park_Street_Negro_IG9846_02_standard_hover.jpg",
+        "imagenTres": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/43f509c2b01247c699d7a8de2635b843_9366/Tenis_Park_Street_Negro_IG9846_03_standard.jpg",
+        "imagenCuatro": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/20520e74167d463eaa0bcf8e4c578943_9366/Tenis_Park_Street_Negro_IG9846_04_standard.jpg"
+      },
+      "idCategoria": 11
+    },
+    {
+      "id": 5,
+      "nombre": "TENIS LACOSTA",
+      "precio": "50000",
+      "descripcion": "",
+      "img": {
+        "imagenUno": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a65b59e7da5443899a1fec46ef6a5606_9366/Tenis_Park_Street_Blanco_IG9850_01_standard.jpg",
+        "imagenDos": "https://th.bing.com/th/id/OIP.1RazSmRfJoC1N6RvYBXV9wHaD5?w=332&h=180&c=7&r=0&o=5&pid=1.7",
+        "imagenTres": "https://th.bing.com/th/id/OIP.1RazSmRfJoC1N6RvYBXV9wHaD5?w=332&h=180&c=7&r=0&o=5&pid=1.7",
+        "imagenCuatro": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/543c39c77dc24abeab6cf9b1d5338687_9366/Tenis_Park_Street_Blanco_IG9850_04_standard.jpg"
+      },
+      "idCategoria": "10"
+    },
+    {
+      "id": 7,
+      "nombre": "TENNIS PUMI-STAR",
+      "precio": "45000",
+      "descripcion": "PIRATAS ",
+      "img": {
+        "imagenUno": "https://static.dafiti.com.co/p/puma-1895-4550922-1-zoom.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/puma-1895-4550922-1-zoom.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/puma-1895-4550922-1-zoom.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/puma-1895-4550922-1-zoom.jpg"
+      },
+      "idCategoria": "11"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 10,
+      "nombre": "Tenis mujer"
+    },
+    {
+      "id": 11,
+      "nombre": "Tenis hombre"
+    }
+  ],
+  "informacionCliente": []
+}
